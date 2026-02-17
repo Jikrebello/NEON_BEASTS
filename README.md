@@ -158,19 +158,6 @@ or the people get liquidated and the IP lives forever.
 
 ---
 
-## ⚡ The Three-Way Engine (why every episode works)
-
-All three factions chase the same fuel: **Hype / Engagement Energy** 🔥
-
-* **LGC** needs it to survive the quarter and earn back independence.
-* **Aegis** converts it into valuation and control.
-* **Caldera** generates it through spectacle, believing attention = dominance.
-
-The joke is that the volcano villains aren’t the true danger.
-The quarterly review is.
-
----
-
 ## 📺 What an episode looks like (10–12 episode cadence)
 
 1. LGC clocks in for a humiliating assignment (low-tier incident, low budget).
