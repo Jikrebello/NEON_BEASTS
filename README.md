@@ -32,7 +32,7 @@ LGC is heroism with a **timecard**. The team clocks in, gets sent to embarrassin
 * mandatory training
 * and a debrief where someone gets roasted for mispronouncing their finisher name
 
-### 🧠 In-universe rules (cartoon logic enforced like policy)
+### 🧠 In-universe rules
 
 * **You don’t die.** If you get wrecked, you “reform” back at base after the scene (it’s just how Ranger tech works here).
 * **Named attacks matter.** If you don’t call it out, it still “works,” but it doesn’t count as a *branded action* (and it won’t juice the hype the same way).
@@ -169,7 +169,7 @@ or the people get liquidated and the IP lives forever.
 
 ---
 
-## 🧩 Season spine (the buyback arc)
+## 🧩 Season spine
 
 LGC learns the truth: Aegis didn’t buy them to save them.
 Aegis bought them to monetize nostalgia and control the protection market.
@@ -184,7 +184,7 @@ Meanwhile Caldera keeps showing up with heartfelt speeches and inefficient evil 
 
 ---
 
-## 🎭 Tone statement (for the repo / trailer blurb)
+## 🎭 Tone statement
 
 Bright. Dramatic. Sincere.
 The monsters are ridiculous, the poses are mandatory, the stakes are corporate, and the most terrifying thing in the world is a quarterly performance review. 😄📊
